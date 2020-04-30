@@ -1,0 +1,48 @@
+C:\Users\Acer\source\repos\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.exe
+C:\Users\Acer\source\repos\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.deps.json
+C:\Users\Acer\source\repos\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.runtimeconfig.json
+C:\Users\Acer\source\repos\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.dll
+C:\Users\Acer\source\repos\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.pdb
+C:\Users\Acer\source\repos\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.Common.dll
+C:\Users\Acer\source\repos\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.Common.pdb
+C:\Users\Acer\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp3.1\LibraryManagementApp.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp3.1\LibraryManagementApp.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp3.1\LibraryManagementApp.AssemblyInfo.cs
+C:\Users\Acer\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp3.1\LibraryManagementApp.csproj.CopyComplete
+C:\Users\Acer\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp3.1\LibraryManagementApp.dll
+C:\Users\Acer\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp3.1\LibraryManagementApp.pdb
+C:\Users\Acer\source\repos\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Acer\source\repos\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.Interfaces.dll
+C:\Users\Acer\source\repos\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.Models.dll
+C:\Users\Acer\source\repos\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.Repositories.dll
+C:\Users\Acer\source\repos\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.Services.dll
+C:\Users\Acer\source\repos\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.Services.pdb
+C:\Users\Acer\source\repos\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.Interfaces.pdb
+C:\Users\Acer\source\repos\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.Models.pdb
+C:\Users\Acer\source\repos\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.Repositories.pdb
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.exe
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.deps.json
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.runtimeconfig.json
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.runtimeconfig.dev.json
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.dll
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.pdb
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.Common.dll
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.Interfaces.dll
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.Models.dll
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.Repositories.dll
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.Services.dll
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.Common.pdb
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.Services.pdb
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.Interfaces.pdb
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.Models.pdb
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp\bin\Debug\netcoreapp3.1\LibraryManagementApp.Repositories.pdb
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp3.1\LibraryManagementApp.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp3.1\LibraryManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp3.1\LibraryManagementApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp3.1\LibraryManagementApp.AssemblyInfo.cs
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp3.1\LibraryManagementApp.csproj.CopyComplete
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp3.1\LibraryManagementApp.dll
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp3.1\LibraryManagementApp.pdb
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp\obj\Debug\netcoreapp3.1\LibraryManagementApp.genruntimeconfig.cache

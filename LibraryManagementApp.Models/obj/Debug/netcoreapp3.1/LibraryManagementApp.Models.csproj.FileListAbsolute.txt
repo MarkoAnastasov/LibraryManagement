@@ -1,0 +1,16 @@
+C:\Users\Acer\source\repos\LibraryManagementApp\LibraryManagementApp.Models\bin\Debug\netcoreapp3.1\LibraryManagementApp.Models.deps.json
+C:\Users\Acer\source\repos\LibraryManagementApp\LibraryManagementApp.Models\bin\Debug\netcoreapp3.1\LibraryManagementApp.Models.dll
+C:\Users\Acer\source\repos\LibraryManagementApp\LibraryManagementApp.Models\obj\Debug\netcoreapp3.1\LibraryManagementApp.Models.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\LibraryManagementApp\LibraryManagementApp.Models\obj\Debug\netcoreapp3.1\LibraryManagementApp.Models.AssemblyInfo.cs
+C:\Users\Acer\source\repos\LibraryManagementApp\LibraryManagementApp.Models\bin\Debug\netcoreapp3.1\LibraryManagementApp.Models.pdb
+C:\Users\Acer\source\repos\LibraryManagementApp\LibraryManagementApp.Models\obj\Debug\netcoreapp3.1\LibraryManagementApp.Models.dll
+C:\Users\Acer\source\repos\LibraryManagementApp\LibraryManagementApp.Models\obj\Debug\netcoreapp3.1\LibraryManagementApp.Models.pdb
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp.Models\bin\Debug\netcoreapp3.1\LibraryManagementApp.Models.deps.json
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp.Models\bin\Debug\netcoreapp3.1\LibraryManagementApp.Models.dll
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp.Models\bin\Debug\netcoreapp3.1\LibraryManagementApp.Models.pdb
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp.Models\obj\Debug\netcoreapp3.1\LibraryManagementApp.Models.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp.Models\obj\Debug\netcoreapp3.1\LibraryManagementApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp.Models\obj\Debug\netcoreapp3.1\LibraryManagementApp.Models.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp.Models\obj\Debug\netcoreapp3.1\LibraryManagementApp.Models.AssemblyInfo.cs
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp.Models\obj\Debug\netcoreapp3.1\LibraryManagementApp.Models.dll
+C:\Users\User\Desktop\Marko\Code Academy\backend\LibraryManagementApp(Marko)\LibraryManagementApp\LibraryManagementApp.Models\obj\Debug\netcoreapp3.1\LibraryManagementApp.Models.pdb

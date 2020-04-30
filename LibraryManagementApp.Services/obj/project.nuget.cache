@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AZQV19s4nXbYmPfVOzQFqlqs8SpOSXOfhNia5dgATjv67bu4meqCPVz9CvLzM7SN1fVdOR4qIaEKbuLYYeID8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Marko\\Code Academy\\backend\\LibraryManagementApp(Marko)\\LibraryManagementApp\\LibraryManagementApp.Services\\LibraryManagementApp.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,218 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "LibraryManagementApp.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "compile": {
+          "bin/placeholder/LibraryManagementApp.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibraryManagementApp.Common.dll": {}
+        }
+      },
+      "LibraryManagementApp.Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "compile": {
+          "bin/placeholder/LibraryManagementApp.Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibraryManagementApp.Interfaces.dll": {}
+        }
+      },
+      "LibraryManagementApp.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "compile": {
+          "bin/placeholder/LibraryManagementApp.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibraryManagementApp.Models.dll": {}
+        }
+      },
+      "LibraryManagementApp.Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "LibraryManagementApp.Interfaces": "1.0.0",
+          "LibraryManagementApp.Models": "1.0.0",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "compile": {
+          "bin/placeholder/LibraryManagementApp.Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibraryManagementApp.Repositories.dll": {}
+        }
+      },
+      "LibraryManagementApp.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "LibraryManagementApp.Common": "1.0.0",
+          "LibraryManagementApp.Repositories": "1.0.0",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "compile": {
+          "bin/placeholder/LibraryManagementApp.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibraryManagementApp.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "LibraryManagementApp.Common/1.0.0": {
+      "type": "project",
+      "path": "../LibraryManagementApp.Common/LibraryManagementApp.Common.csproj",
+      "msbuildProject": "../LibraryManagementApp.Common/LibraryManagementApp.Common.csproj"
+    },
+    "LibraryManagementApp.Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../LibraryManagementApp.Interfaces/LibraryManagementApp.Interfaces.csproj",
+      "msbuildProject": "../LibraryManagementApp.Interfaces/LibraryManagementApp.Interfaces.csproj"
+    },
+    "LibraryManagementApp.Models/1.0.0": {
+      "type": "project",
+      "path": "../LibraryManagementApp.Models/LibraryManagementApp.Models.csproj",
+      "msbuildProject": "../LibraryManagementApp.Models/LibraryManagementApp.Models.csproj"
+    },
+    "LibraryManagementApp.Repositories/1.0.0": {
+      "type": "project",
+      "path": "../LibraryManagementApp.Repositories/LibraryManagementApp.Repositories.csproj",
+      "msbuildProject": "../LibraryManagementApp.Repositories/LibraryManagementApp.Repositories.csproj"
+    },
+    "LibraryManagementApp.Services/1.0.0": {
+      "type": "project",
+      "path": "../LibraryManagementApp.Services/LibraryManagementApp.Services.csproj",
+      "msbuildProject": "../LibraryManagementApp.Services/LibraryManagementApp.Services.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "LibraryManagementApp.Common >= 1.0.0",
+      "LibraryManagementApp.Services >= 1.0.0",
+      "Newtonsoft.Json >= 12.0.3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Marko\\Code Academy\\backend\\LibraryManagementApp(Marko)\\LibraryManagementApp\\LibraryManagementApp\\LibraryManagementApp.csproj",
+      "projectName": "LibraryManagementApp",
+      "projectPath": "C:\\Users\\User\\Desktop\\Marko\\Code Academy\\backend\\LibraryManagementApp(Marko)\\LibraryManagementApp\\LibraryManagementApp\\LibraryManagementApp.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Marko\\Code Academy\\backend\\LibraryManagementApp(Marko)\\LibraryManagementApp\\LibraryManagementApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\User\\Desktop\\Marko\\Code Academy\\backend\\LibraryManagementApp(Marko)\\LibraryManagementApp\\LibraryManagementApp.Common\\LibraryManagementApp.Common.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Marko\\Code Academy\\backend\\LibraryManagementApp(Marko)\\LibraryManagementApp\\LibraryManagementApp.Common\\LibraryManagementApp.Common.csproj"
+            },
+            "C:\\Users\\User\\Desktop\\Marko\\Code Academy\\backend\\LibraryManagementApp(Marko)\\LibraryManagementApp\\LibraryManagementApp.Services\\LibraryManagementApp.Services.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Marko\\Code Academy\\backend\\LibraryManagementApp(Marko)\\LibraryManagementApp\\LibraryManagementApp.Services\\LibraryManagementApp.Services.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[12.0.3, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

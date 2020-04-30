@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationIcon />
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LibraryManagementApp.Interfaces\LibraryManagementApp.Interfaces.csproj" />
+    <ProjectReference Include="..\LibraryManagementApp.Models\LibraryManagementApp.Models.csproj" />
+  </ItemGroup>
+
+</Project>
